@@ -1,2 +1,2 @@
-# TutorialAngular
-Tutorial de Angular
+# FrameworklAngular
+Tutorial Tour de Heroes 

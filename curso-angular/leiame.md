@@ -23,8 +23,15 @@ Os eventos em frameworks de front-end são recursos essenciais
 Um dos mais utilizados é o de click, quando o usuário clica em algum elemento e dispara uma função.
 ng generate component components/eventos
 
+Aula 11# - Emitindo eventos - vamos ver como emitir eventos no Angular
+Esta técnica consiste em conseguir ativar um evento em um componente filho, e replicar isso para o componente pai Desta maneira conseguimos executar uma função que é controlada por outro componente
 
+ng generate component components/emitter
+ng generate component components/change-number
 
+Aula 12# - Renderização de lista - teremos a apresentação de um recurso chamado renderização de lista, o aplicaremos no Angular
+O recurso consiste em ter um array, geralmente de objetos, onde iteramos por cada um dos itens E imprimimos suas informações no template, exemplo: Uma lista de produtos da home de um e-commerce
 
+ng generate component components/list-render
 
 

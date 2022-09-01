@@ -34,4 +34,15 @@ O recurso consiste em ter um array, geralmente de objetos, onde iteramos por cad
 
 ng generate component components/list-render
 
+Aula 13# - A importancia das interfaces no Angular - vamos unir um conceito de TypeScript ao Angular Utilizaremos interfaces para representar nossas entidades no sistema Por exemplo: se trabalhamos com usuários, ter uma interface User pode nos ajudar bastante ao longo do projeto Criando métodos que recebem esta interface como retorno tipado, e outras ações neste sentido.
+
+Aula 14# - Pipe operators do Angular - você vai aprender a utilizar os pipe operators Este recurso pode adicionar diversas funcionalidades as nossas aplicações em Angular Ou seja, são de suma importância para executarmos algo de forma fácil no template.
+
+ng generate component components/pipes
+
+Aula 15# -Two Way Binding no Angular - Agora é a vez de trabalhar com o famoso Two way Data binding um recurso clássico do Angular
+que nos dá mais facilidade em trabalhar com os dados utilizados nos nossos formulários lembrando que podemos adicionar TypeScript a estes recursos.
+
+ng generate component components/two-way-binding
+
 

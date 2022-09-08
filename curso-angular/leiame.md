@@ -43,6 +43,21 @@ Ou seja, são de suma importância para executarmos algo de forma fácil no temp
 
 ng generate component components/pipes
 
+Aula 15# - Two Way data binding no Angular - Um recurso clássico do Angular que nos dá 
+facilidade em trabalhar com os dados utilizados nos nossos formularios, lembrando que podemos
+adicionar TypeScript a estes recursos.
+
+ng generate component components/two-way-binding
+
+Aula 16# - Services do Angular - vamos utilizar os Services para ações como requisição HTTP
+separando a responsabilidade disso da classe do nosso componente, faremos isoladamente em um serviço que também poderá ser reaproveitado entre componentes.
+
+ng generate service services/list
+
+
+
+
+
 
 
 

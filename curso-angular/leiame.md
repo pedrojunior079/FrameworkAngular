@@ -64,6 +64,9 @@ Aula 19# - Dynamic routes - selecionando dados individualmente - vamos utilizar 
 
 ng generate component components/item-detail
 
+Aula 20# - Excluindo dados pelo Service - voce vai aprender excluir registros através do Angular, vamos refatorar uma funcao antes feita para apenas o front-end, agora vamos fechar o ciclo e intgrar ela com uma requisicao HTTP
+
+
 
 
 

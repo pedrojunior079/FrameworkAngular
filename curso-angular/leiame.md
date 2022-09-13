@@ -54,6 +54,9 @@ separando a responsabilidade disso da classe do nosso componente, faremos isolad
 
 ng generate service services/list
 
+Aula 17# - Angular Router - voce vai aprender sobre o Angular Router, este recurso adiciona a funcionalidade de rotas as nossas aplicações de Angular. A melhor caracterista dele é que é um modulo interno, ou seja, não precisamos instala-ló, ele é desenvolvido pela propria equipe do Angular nos danndo a possibilidade de ter varias páginas na nossa SPA
+
+
 
 
 

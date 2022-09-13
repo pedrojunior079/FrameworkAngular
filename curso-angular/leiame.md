@@ -60,6 +60,13 @@ Aula 18# - Requisições HTTP - veremos a maneira correta de executar requisiç�
 
 npm install json-server --> instala servidor json
 
+Aula 19# - Dynamic routes - selecionando dados individualmente - vamos utilizar as rotas dinamicas para acessar recursos individuais ou seja, araves da nossa API e requisicao HTTP, vamos conseguir criar uma pagina para exibir os detalhes de um item isso é muito utilizado em Angula, como também em projetos de modo geral.
+
+ng generate component components/item-detail
+
+
+
+
 
 
 

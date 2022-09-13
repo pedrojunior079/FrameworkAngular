@@ -1,4 +1,4 @@
-Curos Angular 13 do canal Hora de codar no youtube
+Curso Angular 13 do canal Hora de Codar no Youtube
 
 Aula #03 - Estrutura do Angular - aprender sobre os arquivos e pastas criados na hora da instalação de 
 um app de Angular.
@@ -56,9 +56,9 @@ ng generate service services/list
 
 Aula 17# - Angular Router - voce vai aprender sobre o Angular Router, este recurso adiciona a funcionalidade de rotas as nossas aplicações de Angular. A melhor caracterista dele é que é um modulo interno, ou seja, não precisamos instala-ló, ele é desenvolvido pela propria equipe do Angular nos danndo a possibilidade de ter varias páginas na nossa SPA
 
+Aula 18# - Requisições HTTP - veremos a maneira correta de executar requisições HTTP no Angular ou seja, vamos resgatar ou inserir recursos de uma API com o nosso framework. Este trabalho é fundamental para a inegração entre front e backend
 
-
-
+npm install json-server --> instala servidor json
 
 
 

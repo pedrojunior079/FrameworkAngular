@@ -66,6 +66,13 @@ ng generate component components/item-detail
 
 Aula 20# - Excluindo dados pelo Service - voce vai aprender excluir registros através do Angular, vamos refatorar uma funcao antes feita para apenas o front-end, agora vamos fechar o ciclo e intgrar ela com uma requisicao HTTP
 
+Aula 21# Apresentacao do projeto do curso - voce vai conhecer em detalhes o projeto que vai desenvolver no curso de Angular.
+
+Aula 22# Setup da API - voce vai ver como configurar nossa API isso sera fundamenta para desenvolver o frontend em Angular integrado com o back-end em AdonisJS.
+
+node ace serve
+
+
 
 
 

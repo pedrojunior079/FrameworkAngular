@@ -12,8 +12,11 @@ ng generate component components/page/sobre
 ng generate component components/page/principal --(home)
 
 
+Aula 25# - CSS nos componentes de layout - 
 
 
+
+ng generate component components/page/novo-momento
 
 
 

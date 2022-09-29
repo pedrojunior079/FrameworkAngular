@@ -18,6 +18,7 @@ Aula 25# - CSS nos componentes de layout -
 
 ng generate component components/page/novo-momento
 
+Aula 26# - Pagina de formulario - vamos criar uma pagina no nosso app de Angular. A pagina contem um formulario e será de uso essencial para o sistema pois é onde o usuario vai compartilhar os seus momentos com os outros usuarios.
 
 
 

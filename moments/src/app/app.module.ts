@@ -9,6 +9,7 @@ import { FooterComponent } from './components/footer/footer.component';
 import { SobreComponent } from './components/page/sobre/sobre.component';
 import { PrincipalComponent } from './components/page/principal/principal.component';
 import { NovoMomentoComponent } from './components/page/novo-momento/novo-momento.component';
+import { MomentFormComponent } from './components/moment-form/moment-form.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { NovoMomentoComponent } from './components/page/novo-momento/novo-moment
     FooterComponent,
     SobreComponent,
     PrincipalComponent,
-    NovoMomentoComponent
+    NovoMomentoComponent,
+    MomentFormComponent
   ],
   imports: [
     BrowserModule,

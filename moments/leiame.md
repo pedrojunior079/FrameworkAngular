@@ -20,6 +20,11 @@ ng generate component components/page/novo-momento
 
 Aula 26# - Pagina de formulario - vamos criar uma pagina no nosso app de Angular. A pagina contem um formulario e será de uso essencial para o sistema pois é onde o usuario vai compartilhar os seus momentos com os outros usuarios.
 
+Aula 27# - criando interfaces e configurando modulos - vamos criar as interfaces do sistema de Angular que estamos criando elas serão essenciais para trabalhar com as prinicipais entidades interfaces é um recurso do Typescript muito utilizado do Angular.
+
+ng generate service services/momment
+ng generate service services/comment
+ng generate service services/messages
 
 
 

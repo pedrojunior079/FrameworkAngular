@@ -28,7 +28,7 @@ ng generate service services/messages
 
 Aula 28# - Validação de formulario com Reactive Forms - vamos criar as validações de formulario com Angular. Utilizaremos um recurso chamado Reactive Forms, com ele a validação se torna mais simples e efetiva.
 
-
+Aula 29# - Inserindo dados no sistema - vamos inserir dados no banco atraves de nossa API.
 
 
 

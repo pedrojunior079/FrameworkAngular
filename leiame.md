@@ -72,6 +72,12 @@ Aula 22# Setup da API - voce vai ver como configurar nossa API isso sera fundame
 
 node ace serve
 
+------------------------------------------------------------------------------
+Curso Angular 13: Setup inicial do projeto - #23
+vamos começar a criar o projeto que terá front-end em Angular
+e depois conectaremos com a APÌ que foi desenvolvida em AdonisJS, um framework de Node.js
+
+
 
 
 

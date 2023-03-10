@@ -77,6 +77,17 @@ Curso Angular 13: Setup inicial do projeto - #23
 vamos começar a criar o projeto que terá front-end em Angular
 e depois conectaremos com a APÌ que foi desenvolvida em AdonisJS, um framework de Node.js
 
+Curso Angula 13: Estruturando o projeto - #24 
+vamos estruturar pos prinicpais elementos do projete de Angular e
+também realizar algumas limpezas em arquivos, de instruções que não 
+são necessãrios assim estaremos prontos parea criar outras funcionalidades no sistema.
+
+ng generate component components/header
+ng generate component components/footer
+
+para resolver o erro no router-outlet usei esse comando:
+ng generate module app-routing --flat --module=app
+ele cria o app-routing.module.ts
 
 
 

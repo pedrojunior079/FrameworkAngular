@@ -89,6 +89,12 @@ para resolver o erro no router-outlet usei esse comando:
 ng generate module app-routing --flat --module=app
 ele cria o app-routing.module.ts
 
+Curso Angular 13: CSS nos componentes de layout - #25
+vamos aplicar CSS nos componentes de layout
+Estes componentes são os que estruturam a aplicação de Angular que estamos construindo.
+
+
+
 
 
 

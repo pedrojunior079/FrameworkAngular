@@ -93,6 +93,14 @@ Curso Angular 13: CSS nos componentes de layout - #25
 vamos aplicar CSS nos componentes de layout
 Estes componentes são os que estruturam a aplicação de Angular que estamos construindo.
 
+Curso Angular 13: Pagina de formulário - #26
+foi criado pagina de forumulario e o CSS dela
+
+Curso de Angular 13: Criando interfaces e configurando módulos - #27
+vamos criar interfaces do sistema Angular no qual serão configurados os bancos de dados
+ng generate service services/momment
+ng generate service services/comment
+ng generate service services/messages
 
 
 

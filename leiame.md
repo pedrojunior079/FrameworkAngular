@@ -102,6 +102,12 @@ ng generate service services/momment
 ng generate service services/comment
 ng generate service services/messages
 
+Curso de Angular 13: Validação de formulário com Reacctive Forms - #28
+vamos criar as validações de for,ulario com Angular utilizando um recurso
+chamado Reactive Forms
+
+
+
 
 
 
